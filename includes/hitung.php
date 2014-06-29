@@ -89,5 +89,12 @@
 
     //inisialisasi Xi/Yi
 	$xy1 = round(($x1 / $y1),5);
+	
+    //jumlah data Xi Yi i/y x^2 Xi/Yi
+	$jumlah1 = $x1+$x2+$x3+$x4+$x5+$x6+$x7+$x8+$x9+$x10+$x11+$x12+$x13+$x14+$x15+$x16+$x17+$x18+$x19+$x20;
+	$jumlah2 = $y1+$y2+$y3+$y4+$y5+$y6+$y7+$y8+$y9+$y10+$y11+$y12+$y13+$y14+$y15+$y16+$y17+$y18+$y19+$y20;
+	$jumlah3 = $pery1+$pery2+$pery3+$pery4+$pery5+$pery6+$pery7+$pery8+$pery9+$pery10+$pery11+$pery12+$pery13+$pery14+$pery15+$pery16+$pery17+$pery18+$pery19+$pery20;
+	$jumlah4 = $xx1+$xx2+$xx3+$xx4+$xx5+$xx6+$xx7+$xx8+$xx9+$xx10+$xx11+$xx12+$xx13+$xx14+$xx15+$xx16+$xx17+$xx18+$xx19+$xx20;
+	$jumlah5 = $xy1;
 
 ?>
