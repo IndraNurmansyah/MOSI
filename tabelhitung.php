@@ -159,7 +159,7 @@
                                     <th><?php echo $jumlah2; ?></th>
                                     <th><?php echo $jumlah3; ?></th>
                                     <th><?php echo $jumlah4; ?></th>
-                                    <th></th>
+                                    <th><?php echo $jumlah5; ?></th>
 				</tr>
                                 </table>
                             </form>
