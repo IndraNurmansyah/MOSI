@@ -153,6 +153,14 @@
                                     <td><?php echo $y1; ?></td>
                                     <td><?php echo $xy; ?></td>
                                   </tr>
+                                  <tr>
+				  <th>Jumlah</th>
+                                    <th><?php echo $jumlah1; ?></th>
+                                    <th><?php echo $jumlah2; ?></th>
+                                    <th><?php echo $jumlah3; ?></th>
+                                    <th><?php echo $jumlah4; ?></th>
+                                    <th></th>
+				</tr>
                                 </table>
                             </form>
                         </center>
